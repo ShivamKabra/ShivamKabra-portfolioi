@@ -58,7 +58,7 @@ function Projects() {
             <ProjectCard
               imgPath={Health}
               isBlog={false}
-              title="Parlinson Detector"
+              title="Parkinson Detector"
               description="This Machine learning model aims to predict Parkinson's disease amongst individuals based on certain parameters. This project utilizes machine learning algorithms to predict Parkinson's disease based on specific parameters. It involves preprocessing the data and applying various algorithms such as SVM, KNN, logistic regression, decision trees, and random forests to build predictive models. The performance of each model is evaluated, and the most accurate model is selected. The project aims to contribute to early detection and diagnosis of Parkinson's disease, potentially improving patient care and treatment strategies."
               ghLink="https://github.com/ShivamKabra/Parkinson-Disease-detection.git"
             />
